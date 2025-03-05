@@ -25,3 +25,4 @@ Throughout this project, I strengthened my skills in frontend development, parti
 
 This project was a significant learning experience, allowing me to apply my knowledge in a real-world scenario. It also serves as a foundation for future improvements, where I plan to integrate JavaScript for added interactivity and potentially migrate to React for a more dynamic user experience. Overall, this portfolio represents my dedication to web development and my ability to create functional, aesthetic, and user-friendly websites using HTML and CSS alone.
 
+output: ![Image](https://github.com/user-attachments/assets/681e3562-7803-4b96-8198-c452a21addf0)
